@@ -1,2 +1,0 @@
-# lingreed.github.io
-blog
